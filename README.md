@@ -1,2 +1,2 @@
 # Terraform-Test
-Terraform Testing for Cloud and anything else
+Terraform testing for Terraform Cloud and anything else
